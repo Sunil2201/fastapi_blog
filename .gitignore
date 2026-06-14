@@ -17,3 +17,6 @@ wheels/
 
 # Environment variables
 .env
+
+# User uploaded media
+media/
